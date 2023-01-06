@@ -11,8 +11,8 @@ https://github.com/ankitAMD/Self-Attention-GAN-master_pytorch
 
 #### 1. Clone the repository
 ```bash
-$ git clone https://github.com/heykeetae/Self-Attention-GAN.git
-$ cd Self-Attention-GAN
+$ git clone https://github.com/AdleyGan/GAN-AE-P.git
+$ cd GAN-AE-P
 ```
 
 #### 2. Install datasets (CelebA or LSUN)
