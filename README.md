@@ -60,7 +60,7 @@ $ bash download.sh LSUN
 ```bash
 $ python3 main.py --batch_size 64 --imsize 64 --dataset celeb --adv_loss hinge --version sagan_celeb_testing
 or
-$ python3 main.py --batch_size 64 --imsize 64 --dataset lsun --adv_loss hinge --version sagan_lsun
+$ python3 main.py --batch_size 64 --imsize 64 --dataset lsun --adv_loss hinge --version sagan_lsun_testing
 ```
 #### 4. Enjoy the results
 ```bash
