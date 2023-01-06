@@ -1,7 +1,7 @@
 # GAN-AE-P
 # Prerequisites
-## (i) Python 3.5+
-## (ii) PyTorch 0.3.0
+(i) Python 3.5+
+(ii) PyTorch 0.3.0
 
 ## Acknowledgement
 Thank you for providing the original code.
