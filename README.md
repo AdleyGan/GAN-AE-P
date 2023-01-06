@@ -1,4 +1,7 @@
 # GAN-AE-P
+## Acknowledgement
+Thank them for providing the original code.
+https://github.com/ankitAMD/Self-Attention-GAN-master_pytorch
 
 ## Usage
 
