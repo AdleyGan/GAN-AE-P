@@ -1,10 +1,10 @@
 # GAN-AE-P
 # Prerequisites
-Python 3.5+
-PyTorch 0.3.0
+## (i) Python 3.5+
+## (ii) PyTorch 0.3.0
 
 ## Acknowledgement
-Thank them for providing the original code.
+Thank you for providing the original code.
 https://github.com/ankitAMD/Self-Attention-GAN-master_pytorch
 
 ## Usage
