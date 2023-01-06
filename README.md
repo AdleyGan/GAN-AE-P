@@ -1,18 +1,18 @@
 # GAN-AE-P
-# Prerequisites
-(i) Python 3.5+
-(ii) PyTorch 0.3.0
-
-## Acknowledgement
+# Acknowledgement
 Thank you for providing the original code.
 https://github.com/ankitAMD/Self-Attention-GAN-master_pytorch
+
+## Prerequisites
+(i) Python 3.5+
+(ii) PyTorch 0.3.0
 
 ## Usage
 
 #### 1. Clone the repository
 ```bash
-$ git clone https://github.com/AdleyGan/GAN-AE-P.git
-$ cd GAN-AE-P
+$ git clone https://github.com/heykeetae/Self-Attention-GAN.git
+$ cd Self-Attention-GAN
 ```
 
 #### 2. Install datasets (CelebA or LSUN)
